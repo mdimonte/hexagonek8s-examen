@@ -52,6 +52,5 @@ Voici l'URL d'accès au quiz: [[cliquer ici]](xxx)
 
 ### Instructions pour les travaux pratiques
 
-1. [[instructions du TP #1]](): description
+1. [[instructions du TP #1]](TP-1/README.md): description
 2. [[instructions du TP #2]](): description
-3. [[instructions du TP #3]](): description
