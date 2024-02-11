@@ -48,7 +48,7 @@ Dans ce TP vous allez déployer un micro-service faisant tourner `mongodb` et un
 
 - créer un `service` de type `ClusterIP` permettant de répartir le trafique réseau vers l'ensemble des pods qui seront générés grace à votre `deployment`.  
 
-- créer un `ingress` pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.
+- créer un `ingress` (en utilisant la classe d'ingress `webapprouting.kubernetes.azure.com`) pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.
 
 ### bonnes pratiques
 

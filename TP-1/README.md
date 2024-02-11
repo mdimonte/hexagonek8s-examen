@@ -25,7 +25,7 @@ Voici le détail des instructions à suivre pour aboutir au résultat demandé:
 - créer un `service` permettant de load-balancer le trafique réseau vers l'ensemble des pods qui seront générés grace à votre `deployment` (pour ce deployment il n'y aura qu'un seul pod).  
 :fire: vous me prouverez que ce `service` est bien 'associé' au pod du `deployment` kube-invaders
 
-- créer un `ingress` pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.  
+- créer un `ingress` (en utilisant la classe d'ingress `webapprouting.kubernetes.azure.com`) pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.  
 Si tout c'est bien passé, normalement en accédant à l'URL renseignée dans votre `ingress` vous devriez obtenir une page similaire à celle-ci:  
 ![screenshot kubeinvaders](screenshot-kubeinvaders.png)
 
@@ -40,7 +40,7 @@ Si tout c'est bien passé, normalement en accédant à l'URL renseignée dans vo
 
 - créer un `service` permettant de load-balancer le trafique réseau vers l'ensemble des pods qui seront générés grace à votre `deployment`.  
 
-- créer un `ingress` pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.
+- créer un `ingress` (en utilisant la classe d'ingress `webapprouting.kubernetes.azure.com`) pour exposer cette application à l'extérieur du cluster et ainsi la rendre accessible sur internet.
 
 ### prouver le bon fonctionnement de `kube-invaders`
 
