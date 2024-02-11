@@ -52,5 +52,5 @@ Voici l'URL d'accès au quiz: [[cliquer ici]](xxx)
 
 ### Instructions pour les travaux pratiques
 
-1. [[instructions du TP #1]](TP-1/README.md): description
-2. [[instructions du TP #2]](): description
+1. [[instructions du TP #1]](TP-1/README.md): générer du chaos avec `kube invader`
+2. [[instructions du TP #2]](TP-2/README.md): application de banque multi micro-services
