@@ -39,7 +39,7 @@ Cette épreuve est notée sur 20 points.
 
 ## quiz (4 points)
 
-Voici l'URL d'accès au quiz: [[cliquer ici]](xxx)
+Voici l'URL d'accès au quiz: [[cliquer ici]](https://app.wooclap.com/RCAELD)
 
 ## Travaux pratiques (10 points)
 
