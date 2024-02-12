@@ -16,7 +16,7 @@ Vous attacherez un soin particulier à la présentation, à la rédaction et à 
 de vos choix.  
 Vous devrez rendre un compte-rendu détaillé avec des captures d’écran lorsque ce sera nécessaire.  
 
-**Dès la fin de la séance, vous me fournirez sur WIMI, par message(s) privé(s)**:
+**Dès la fin de la séance, vous me fournirez sur par e-mail à 'mdimonte@gamil.com'**:
 
 1. l'ensemble des fichiers YAML que vous aurez utilisés
 2. le compte-rendu d'exécution des TP
