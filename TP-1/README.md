@@ -13,7 +13,7 @@ Voici le détail des instructions à suivre pour aboutir au résultat demandé:
 - créer un `deployment` avec les caractéristiques suivantes:
   - image à utiliser: `mdimonte/kubeinvaders:v1.9`
   - nombre de réplicas: `1`
-  - déclarer le port sur lequel l'application écoute: TCP/8088
+  - déclarer le port sur lequel l'application écoute: TCP/8080
   - affecter 5 milicores de CPU en `request` et 20 milicores en `limit`
   - affecter 25 Mi de mémoire en `request` et 75 Mi en `limit`
   - déclarer ces 2 variables:
